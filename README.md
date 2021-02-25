@@ -1,4 +1,4 @@
-This is an example of creating a video stream using node js server and express.
+This is a copyrighted example of creating a video stream using node js server and express.
 
 To install dependencies
 npm install

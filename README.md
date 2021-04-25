@@ -1,5 +1,5 @@
 
-This is a open source, free, take home with you, at no cost, no legal issue to clone example of creating a video stream using node js server and express.
+This is an example on how to create a video stream using node js server and express.
 
 To install dependencies
 npm install
